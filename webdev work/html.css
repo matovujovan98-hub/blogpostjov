@@ -1,0 +1,15 @@
+body{
+    background-image: url("38c0f6ff-967a-4acd-8a4e-8d6b052aa8a2_0_watermark.jpeg");
+    
+}
+h1{
+    color: white;
+} 
+p{
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border: solid;
+}
+}

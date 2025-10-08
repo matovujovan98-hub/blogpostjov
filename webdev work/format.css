@@ -1,0 +1,36 @@
+body{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.purplediv{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.purplediv div{
+    display: flex;
+    
+}
+.purplediv p{
+margin-right:25px ;
+}
+.reddiv{
+    display: flex;
+    justify-content: space-between;
+}
+.reddiv h1{
+    font-size: 45px;
+}
+.reddiv p{
+    font-size: 25px;
+}
+.emailform{
+    padding: 10px;
+    margin-right: 15px;
+    border-radius: 10px;
+
+
+}
+.emailbutton{
+    background-color: black;
+}
